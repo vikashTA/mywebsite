@@ -8,3 +8,5 @@ Editing with master on gitHub before rebase again
 
 **Purpose**
 Editing Readme file
+### Tags Updating
+Updating tags to new commits
